@@ -8,3 +8,7 @@ How is the staging area different from the working directory and the repository?
 Staging area contains only chosen files from working directory and and is a kind
 of temporary place for storing files that chosen to be added to commit.
 I think it offers the value of ability to choose which files should be commited.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can add to the staging area only those files than were edited during the adding one logical change
