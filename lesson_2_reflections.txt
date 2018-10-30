@@ -22,3 +22,7 @@ In that case you can create a new branch for experimental version with new featu
 How do the diagrams help you visualize the branch structure?
 
 They help to see commits that are points of separation for different branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is the branch that combines commits from both branches. We represent it in the diagram that way because it looks like th branches become the one. 
