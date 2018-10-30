@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 It is helpful when, for example, you want to experiment with adding a new feature and not sure 
 will it stay in your program for a long time or not so but at the same time you want to always have working version of your program.
 In that case you can create a new branch for experimental version with new features and at the same time continue to work on your main version on your master branch. 
+
+How do the diagrams help you visualize the branch structure?
+
+They help to see commits that are points of separation for different branches.
