@@ -7,3 +7,14 @@ automatically stay up-to-date with your remote repository?
 
 Because in case of automatical pull to the local repository it can be that Git
 pulls uncompleted features and fixes.
+
+Decribe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+Forks are the copies of repository on GitHub that are also stored on GitHub
+and have links to the original repositories. Clones are just local copies of
+local or remore repositories. Branches are the way to separate commits related
+to realisation of some feature. Forks are used to clone someone's GitHub
+repository to work with it but have a link to the origin. Clones are used to
+just copy repositories. And branches are used to store commits in convenient
+way that allows to work on logically separated versions of files..
