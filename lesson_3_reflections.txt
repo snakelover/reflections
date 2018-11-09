@@ -23,4 +23,10 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
 The benefit is that you can always see what commits were added after the last
-pull request.
+pull request
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+It would be harder because there will be a need to share my files somehow and
+do a lot of manual work with comparisons and so on.
