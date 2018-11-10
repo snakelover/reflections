@@ -30,3 +30,7 @@ and what would be harder?
 
 It would be harder because there will be a need to share my files somehow and
 do a lot of manual work with comparisons and so on.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I want to make some serious changes to the and try some experimental features or when I'm collaboratuing with some people and want them to be able to assess my changes firstly and decide on the merging. But I think that in some cases it makes sense to do changes directly in master when you fix the typos or work on your own project solely.
